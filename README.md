@@ -78,7 +78,7 @@ Project ini sudah dideploy di Vercel.
 Link live demo:
 🔗 https://pokemon-rini-git-main-rinishulhahs-projects.vercel.app/
 
-🤝 Kontribusi
+## Kontribusi
 Kontribusi sangat terbuka!
 Kalau ingin membantu mengembangkan project ini:
 
