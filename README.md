@@ -19,37 +19,9 @@ Tailwind CSS — Framework CSS untuk styling yang cepat dan responsif.
 
 PokéAPI — API sumber data Pokémon.
 
-### Cara Menjalankan Project di Lokal
-Clone repository ini:
+### Cara Menjalankan Project 
 
-bash
-Copy
-Edit
-git clone https://github.com/rinishulhah/pokemon-rini.git
-Masuk ke folder project:
 
-bash
-Copy
-Edit
-cd pokemon-rini
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Jalankan server lokal:
-
-bash
-Copy
-Edit
-npm run dev
-Buka browser dan akses https://pokemon-rini-git-main-rinishulhahs-projects.vercel.app/
-
-Deployment
-Project ini dideploy menggunakan Vercel.
-
-Live demo: pokemon-rini.vercel.app
 
 Author
 Rini Shulhah
