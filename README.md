@@ -1,4 +1,3 @@
-🚀
 
 ## 🎮 Pokémon Rini
 Selamat datang di Pokémon Rini — proyek website interaktif yang menampilkan daftar Pokémon menggunakan React, Vite, dan Tailwind CSS.
@@ -44,23 +43,6 @@ Tailwind CSS	 Framework CSS utility-first untuk desain responsif
 PokéAPI	API  sumber data Pokémon secara gratis
 ESLint	 Linter untuk menjaga kualitas kode JavaScript
 
-## 📁 Struktur Folder
-php
-Copy
-Edit
-Pokemon-Rini/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/         # Gambar/icon tambahan
-│   ├── components/     # Komponen React (misal: Card, Header, dll)
-│   ├── pages/          # Halaman utama (Home, About, dll jika ada)
-│   ├── services/       # API handling dan request service
-│   ├── App.jsx         # Root komponen
-│   └── main.jsx        # Entry point aplikasi
-├── package.json        # File konfigurasi project
-├── tailwind.config.js  # Konfigurasi Tailwind
-└── vite.config.js      # Konfigurasi Vite
 
 ## 🚀 Cara Install dan Menjalankan
 Ikuti langkah ini untuk menjalankan di lokal:
