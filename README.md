@@ -5,7 +5,7 @@ Selamat datang di Pokémon Rini — proyek website interaktif yang menampilkan d
 Proyek ini dibuat sebagai latihan untuk membangun aplikasi frontend modern dengan performa cepat dan desain yang responsif.
 
 
-### 📋 Daftar Isi
+## 📋 Daftar Isi
 - Fitur
 
 - Teknologi yang Digunakan
@@ -20,7 +20,7 @@ Proyek ini dibuat sebagai latihan untuk membangun aplikasi frontend modern denga
 
 - Author
 
-### ✨ Fitur
+## ✨ Fitur
 - 🔍 Menampilkan daftar Pokémon dari API
 
 - 🖼️ Menampilkan gambar dan nama setiap Pokémon
@@ -37,14 +37,14 @@ Proyek ini dibuat sebagai latihan untuk membangun aplikasi frontend modern denga
 
 - 🛠️ Teknologi yang Digunakan
 
-### Teknologi	Keterangan
-React.js	Library untuk membangun UI komponen berbasis state
-Vite	Build tool super cepat untuk aplikasi modern
-Tailwind CSS	Framework CSS utility-first untuk desain responsif
-PokéAPI	API sumber data Pokémon secara gratis
-ESLint	Linter untuk menjaga kualitas kode JavaScript
+## Teknologi	Keterangan
+React.js	 Library untuk membangun UI komponen berbasis state
+Vite	 Build tool super cepat untuk aplikasi modern
+Tailwind CSS	 Framework CSS utility-first untuk desain responsif
+PokéAPI	API  sumber data Pokémon secara gratis
+ESLint	 Linter untuk menjaga kualitas kode JavaScript
 
-### 📁 Struktur Folder
+## 📁 Struktur Folder
 php
 Copy
 Edit
@@ -61,7 +61,8 @@ Pokemon-Rini/
 ├── package.json        # File konfigurasi project
 ├── tailwind.config.js  # Konfigurasi Tailwind
 └── vite.config.js      # Konfigurasi Vite
-🚀 Cara Install dan Menjalankan
+
+## 🚀 Cara Install dan Menjalankan
 Ikuti langkah ini untuk menjalankan di lokal:
 
 bash
@@ -112,15 +113,15 @@ Edit
 git push origin fitur-baru
 Buat Pull Request.
 
-📜 Lisensi
+## 📜 Lisensi
 Project ini menggunakan lisensi MIT License.
 
-👩‍💻 Author
+## 👩‍💻 Author
 Made with ❤️ by Rini Shulhah
 
 GitHub: @Rinishulhah
 
-Portfolio (coming soon)
+
 
 Project ini dibuat sebagai bagian dari pengembangan skill React, Vite, dan Tailwind CSS.
 Semua masukan dan saran sangat diterima untuk pengembangan project ke depannya! 🚀
