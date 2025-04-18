@@ -1,12 +1,55 @@
-# React + Vite
+Pokémon Rini
+Ini adalah proyek website sederhana bertema Pokémon yang dibuat dengan tujuan belajar dan eksplorasi frontend development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website ini menampilkan daftar Pokémon lengkap dengan gambar dan beberapa informasi dasar mereka.
 
-Currently, two official plugins are available:
+Fitur
+Menampilkan daftar Pokémon.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Menampilkan gambar dan nama Pokémon.
 
-## Expanding the ESLint configuration
+Responsive design, dapat diakses melalui perangkat mobile maupun desktop.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Teknologi yang Digunakan
+React.js — Library JavaScript untuk membangun user interface.
+
+Vite — Build tool modern untuk proyek frontend.
+
+Tailwind CSS — Framework CSS untuk styling yang cepat dan responsif.
+
+PokéAPI — API sumber data Pokémon.
+
+Cara Menjalankan Project di Lokal
+Clone repository ini:
+
+bash
+Copy
+Edit
+git clone https://github.com/rinishulhah/pokemon-rini.git
+Masuk ke folder project:
+
+bash
+Copy
+Edit
+cd pokemon-rini
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Jalankan server lokal:
+
+bash
+Copy
+Edit
+npm run dev
+Buka browser dan akses http://localhost:5173.
+
+Deployment
+Project ini dideploy menggunakan Vercel.
+
+Live demo: pokemon-rini.vercel.app
+
+Author
+Rini Shulhah
