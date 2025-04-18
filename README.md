@@ -1,6 +1,8 @@
 ## 🎮 Pokémon Rini
 Selamat datang di Pokémon Rini — proyek website interaktif yang menampilkan daftar Pokémon menggunakan React, Vite, dan Tailwind CSS.
 Proyek ini dibuat sebagai latihan untuk membangun aplikasi frontend modern dengan performa cepat dan desain yang responsif.
+Di dalam aplikasi ini, pengguna dapat melihat daftar Pokémon lengkap dengan gambar dan nama, dengan tampilan yang ringan dan menarik.
+Pokémon Rini bertujuan untuk menghadirkan pengalaman browsing Pokémon yang sederhana, intuitif, dan menyenangkan bagi semua pengguna.
 
 ## 🌐 Live Preview
 Aplikasi Pokémon Rini sudah tersedia online!
@@ -16,9 +18,6 @@ Kunjungi dan nikmati tampilannya melalui link berikut:
 - Fitur
 
 - Teknologi yang Digunakan
-
-- Struktur Folder
-
 
 
 - Cara Install dan Menjalankan
